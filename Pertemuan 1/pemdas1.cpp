@@ -24,3 +24,4 @@
     InputData();
     TampilData();
  }
+ //gftjcsghg
